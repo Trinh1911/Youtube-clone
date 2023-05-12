@@ -1,6 +1,5 @@
 import axios from "axios";
-const axios = require('axios');
-const BASE_URL = 'https://youtube-v31.p.rapidapi.com/search'
+const BASE_URL = 'https://youtube-v31.p.rapidapi.com'
 const options = {
     url: BASE_URL,
     params: {
